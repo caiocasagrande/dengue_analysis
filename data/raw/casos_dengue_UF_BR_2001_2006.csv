@@ -1,0 +1,47 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Notificações por UF de residência e Ano 1º Sintoma(s)
+Classifica. Final: Ign/Ñ preenchido, Dengue Clássico, Dengue Com Complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue
+Período:2003-2006
+"UF de residência";"2001";"2002";"2003";"2004";"2005";"2006";"Total"
+"11 Rondônia";2;90;3008;3386;5946;4229;16661
+"12 Acre";1;4;970;4679;2280;265;8199
+"13 Amazonas";1;61;4009;918;1020;632;6641
+"14 Roraima";2;20;4967;581;2359;969;8898
+"15 Pará";3;200;9751;5778;8246;6503;30481
+"16 Amapá";-;9;4039;2626;2559;1766;10999
+"17 Tocantins";1;40;1883;1538;3357;5834;12653
+"21 Maranhão";-;122;5858;1626;6608;5005;19219
+"22 Piauí";1;59;9505;872;4529;4704;19670
+"23 Ceará";4;148;33325;3990;27188;28397;93052
+"24 Rio Grande do Norte";4;97;20760;2678;4806;8328;36673
+"25 Paraíba";2;65;12737;1365;5981;3070;23220
+"26 Pernambuco";-;133;15187;2330;5573;8663;31886
+"27 Alagoas";1;21;6098;4492;2667;3105;16384
+"28 Sergipe";-;62;4781;435;664;1140;7082
+"29 Bahia";9;185;42362;4661;17878;6731;71826
+"31 Minas Gerais";3;97;14319;13722;11309;29762;69212
+"32 Espírito Santo";3;145;29247;3483;2752;10042;45672
+"33 Rio de Janeiro";2;280;5526;1225;1372;26446;34851
+"35 São Paulo";3;275;16773;3130;6387;61315;87883
+"41 Paraná";2;36;11033;159;1058;1222;13510
+"42 Santa Catarina";-;-;59;16;48;60;183
+"43 Rio Grande do Sul";-;3;57;23;42;70;195
+"50 Mato Grosso do Sul";1;13;2109;320;638;11448;14529
+"51 Mato Grosso";1;230;9466;2395;6866;9539;28497
+"52 Goiás";2;53;8569;5838;18837;24133;57432
+"53 Distrito Federal";-;6;888;260;388;503;2045
+"00 Ignorado/exterior";-;1;135;26;55;9;226
+"Total";48;2455;277421;72552;151413;263890;767779
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+    pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
+    com atraso) e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: série histórica de nº de casos, 2001 a 2005:
+    selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis-2001 até o ano atual e
+    em Seleções assinale Ano de 1ºs sintomas de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 

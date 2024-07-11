@@ -1,0 +1,53 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por UF de residência e Ano Notificação
+Class. Final: Dengue Clássico, Dengue com complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue, Inconclusivo, Ignorado/brancos
+Período:2007-2013
+"UF de residência";"Em Branco/ign";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"Total"
+"11 Rondônia";-;3143;5964;18977;21988;3213;3351;8919;65555
+"12 Acre";-;521;2138;19370;35582;19023;2453;2647;81734
+"13 Amazonas";-;1948;8865;1705;7715;62373;5456;18206;106268
+"14 Roraima";-;916;5032;3200;7633;1393;1916;973;21063
+"15 Pará";-;14021;16390;7680;15723;19313;16669;9391;99187
+"16 Amapá";-;3630;1211;1641;3279;2579;1585;1791;15716
+"17 Tocantins";-;12765;10315;4089;9432;10550;11784;8743;67678
+"21 Maranhão";-;13497;5797;2280;5826;12099;5430;3672;48601
+"22 Piauí";-;9763;2443;4039;7201;11077;12369;5020;51912
+"23 Ceará";1;34422;54889;7994;21393;63468;55193;30429;267789
+"24 Rio Grande do Norte";-;13051;35994;2713;7910;23610;29442;19399;132119
+"25 Paraíba";-;10743;8489;972;6690;12607;8828;13639;61968
+"26 Pernambuco";-;22569;20259;2930;34713;19235;32712;8091;140509
+"27 Alagoas";-;10631;13862;4034;47530;9036;28599;11411;125103
+"28 Sergipe";-;1493;29776;1847;807;3792;4628;806;43149
+"29 Bahia";-;9439;37750;99961;46153;39589;49203;62189;344284
+"31 Minas Gerais";-;28552;52338;55623;216349;38716;30525;418891;840994
+"32 Espírito Santo";-;6862;25492;38873;26254;39048;12255;69348;218132
+"33 Rio de Janeiro";-;56423;236754;8556;30149;167453;182553;217700;899588
+"35 São Paulo";-;115236;12782;12158;208705;108306;29513;223605;710305
+"41 Paraná";-;27227;1934;1547;38293;30196;4612;66529;170338
+"42 Santa Catarina";-;150;107;51;196;159;95;367;1125
+"43 Rio Grande do Sul";-;423;139;70;3653;354;175;451;5265
+"50 Mato Grosso do Sul";-;70272;846;14064;64828;8014;9651;79644;247319
+"51 Mato Grosso";-;16620;7218;52454;38110;6368;33284;35837;189891
+"52 Goiás";-;14972;39386;43789;105712;35059;25042;141632;405592
+"53 Distrito Federal";-;1136;1431;824;15177;3213;1495;12012;35288
+"00 Ignorado/exterior";-;165;60;59;99;5;99;251;738
+"Total";1;500590;637661;411500;1027100;749848;598917;1471593;5397210
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+   pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Para tabular os óbitos por dengue até 2012, deve-se considerar apenas os casos graves (DCC, FHD, SCD, DSA, DG)
+   em que a evolução seja "óbito pelo agravo notificado" com critério de confirmação laboratorial e clínico-epidemiológico.
+   A partir de 2013, deve-se incluir, além dos casos graves, aqueles com classificação final dengue.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 atualizados em 30/08/2009.
+ Dados de 2008 atualizados em 17/03/2011.
+ Dados de 2009 atualizados em 23/06/2011.
+ Dados de 2010 atualizados em 18/06/2011.
+ Dados de 2011 atualizados em 11/01/2012.
+ Dados de 2012 atualizados em 25/07/2013.
+ Dados de 2013 atualizados em 10/07/2014.
+ Data da publicação dos dados 04/02/2019.
+ 
