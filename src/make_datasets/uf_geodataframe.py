@@ -23,5 +23,8 @@ gdf = gdf[['id_uf', 'geometry']]
 # GeoDataFrame
 uf_brasil = gpd.GeoDataFrame(gdf, geometry=gdf.geometry)
 
+# Tratamento de dados
+gdf['id_uf'] = gdf['id_uf'].astype('int64')
+
 # Exportação dos dados
 uf_brasil.to_file('../../data/interim/uf_brasil.geojson', driver='GeoJSON')
