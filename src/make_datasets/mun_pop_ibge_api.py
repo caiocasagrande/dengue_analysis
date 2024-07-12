@@ -103,4 +103,4 @@ cols = ['cod_ibge', 'id_mun', 'nome_municipio', 'sigla_UF',
 df_populacao = df_populacao[cols]
 
 # Exportando DataFrames para arquivos .csv
-df_populacao.to_csv('../../data/interim/populacao.csv', index=False)
+df_populacao.to_csv('../../data/interim/mun_populacao.csv', index=False)
