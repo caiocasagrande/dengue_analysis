@@ -1,0 +1,194 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por Município de residência e Ano Notificação
+Amazônia Legal (residência): Sim
+Class. Final: Dengue Clássico, Dengue com complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue, Inconclusivo, Ignorado/brancos
+Evolução: Óbito pelo agravo notificado
+Período:2007-2013
+"Município de residência";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"Total"
+"110001 ALTA FLORESTA D'OESTE";-;-;1;-;-;-;-;1
+"110002 ARIQUEMES";-;-;2;-;-;-;-;2
+"110004 CACOAL";-;1;6;4;-;-;-;11
+"110005 CEREJEIRAS";-;-;-;1;-;-;-;1
+"110006 COLORADO DO OESTE";-;-;-;1;-;1;-;2
+"110010 GUAJARA-MIRIM";-;-;-;2;-;-;-;2
+"110011 JARU";-;-;4;1;-;-;-;5
+"110012 JI-PARANA";-;-;1;2;1;-;1;5
+"110014 NOVA BRASILANDIA D'OESTE";-;-;1;-;-;-;-;1
+"110015 OURO PRETO DO OESTE";-;-;3;-;-;-;-;3
+"110018 PIMENTA BUENO";-;-;-;1;-;-;-;1
+"110020 PORTO VELHO";-;2;1;3;-;1;1;8
+"110025 PRESIDENTE MEDICI";-;-;-;2;-;-;-;2
+"110028 ROLIM DE MOURA";-;-;-;2;-;-;-;2
+"110030 VILHENA";-;2;-;2;-;1;1;6
+"110034 ALVORADA D'OESTE";-;-;-;-;1;-;-;1
+"110092 CHUPINGUAIA";-;-;-;-;-;-;1;1
+"110110 ITAPUA DO OESTE";-;-;-;1;-;-;-;1
+"110120 MINISTRO ANDREAZZA";-;-;-;-;-;-;2;2
+"110130 MIRANTE DA SERRA";-;-;-;1;-;-;-;1
+"110140 MONTE NEGRO";-;-;-;-;1;-;-;1
+"120040 RIO BRANCO";-;-;5;9;2;-;-;16
+"130185 IRANDUBA";-;-;-;-;1;-;-;1
+"130190 ITACOATIARA";-;-;-;-;1;-;-;1
+"130250 MANACAPURU";-;-;-;1;2;-;-;3
+"130260 MANAUS";5;9;3;5;14;3;10;49
+"130290 MAUES";-;1;-;-;-;-;-;1
+"130310 NOVA OLINDA DO NORTE";-;-;-;-;1;-;-;1
+"130320 NOVO AIRAO";-;-;-;-;1;-;-;1
+"130406 TABATINGA";-;-;-;-;1;3;-;4
+"130420 TEFE";-;-;-;-;2;-;1;3
+"140010 BOA VISTA";-;2;2;4;1;-;-;9
+"140017 CANTA";-;1;-;-;-;-;-;1
+"140047 RORAINOPOLIS";-;1;1;1;-;-;-;3
+"140070 UIRAMUTA";-;-;-;1;-;-;-;1
+"150010 ABAETETUBA";-;-;-;-;1;-;-;1
+"150060 ALTAMIRA";-;-;-;-;3;1;-;4
+"150080 ANANINDEUA";-;1;-;3;-;1;-;5
+"150130 BARCARENA";3;-;-;-;-;-;-;3
+"150140 BELEM";7;-;7;12;6;1;-;33
+"150145 BELTERRA";-;-;1;-;-;-;-;1
+"150157 BOM JESUS DO TOCANTINS";-;-;-;-;1;-;-;1
+"150170 BRAGANCA";-;-;-;1;-;-;-;1
+"150180 BREVES";-;1;-;-;-;-;-;1
+"150230 CAPITAO POCO";1;-;-;-;-;-;-;1
+"150270 CONCEICAO DO ARAGUAIA";1;3;1;-;-;-;-;5
+"150304 FLORESTA DO ARAGUAIA";-;-;1;-;-;-;-;1
+"150370 ITUPIRANGA";1;-;-;-;-;-;-;1
+"150380 JACUNDA";-;-;1;-;-;-;-;1
+"150420 MARABA";-;3;-;-;-;-;-;3
+"150442 MARITUBA";-;-;-;1;1;-;-;2
+"150445 MEDICILANDIA";-;-;-;-;-;-;1;1
+"150503 NOVO PROGRESSO";1;-;-;-;-;-;-;1
+"150506 NOVO REPARTIMENTO";-;-;1;-;-;-;-;1
+"150530 ORIXIMINA";-;1;-;-;2;-;1;4
+"150543 OURILANDIA DO NORTE";-;-;-;1;-;-;-;1
+"150548 PACAJA";-;-;-;-;1;-;-;1
+"150550 PARAGOMINAS";-;1;1;-;-;-;2;4
+"150553 PARAUAPEBAS";4;1;-;-;1;1;1;8
+"150613 REDENCAO";4;1;-;-;-;-;-;5
+"150616 RIO MARIA";1;-;-;-;-;-;-;1
+"150618 RONDON DO PARA";1;-;-;-;-;-;-;1
+"150619 RUROPOLIS";-;1;-;-;-;-;2;3
+"150620 SALINOPOLIS";1;-;-;-;-;-;-;1
+"150650 SANTA IZABEL DO PARA";-;-;-;-;1;1;-;2
+"150655 SANTA LUZIA DO PARA";1;-;-;-;-;-;-;1
+"150658 SANTA MARIA DAS BARREIRAS";-;1;-;-;1;-;-;2
+"150670 SANTANA DO ARAGUAIA";-;-;-;1;-;-;2;3
+"150680 SANTAREM";-;2;-;-;1;-;-;3
+"150730 SAO FELIX DO XINGU";-;-;-;-;-;1;-;1
+"150745 SAO GERALDO DO ARAGUAIA";1;-;-;-;-;-;-;1
+"150790 SOURE";-;-;-;-;1;-;-;1
+"150795 TAILANDIA";-;-;-;-;1;-;-;1
+"150805 TRAIRAO";1;-;-;-;-;-;-;1
+"150808 TUCUMA";2;-;2;-;-;-;-;4
+"150815 URUARA";-;-;-;2;-;-;-;2
+"150840 XINGUARA";-;10;-;-;1;-;-;11
+"160030 MACAPA";5;-;-;3;1;1;3;13
+"170210 ARAGUAINA";-;1;-;1;-;-;2;4
+"170230 ARAPOEMA";-;-;-;-;-;-;2;2
+"170255 AUGUSTINOPOLIS";1;-;-;-;-;-;-;1
+"170560 CONCEICAO DO TOCANTINS";1;-;-;-;-;-;-;1
+"170720 DOIS IRMAOS DO TOCANTINS";-;-;-;-;-;-;1;1
+"170950 GURUPI";-;1;-;1;2;-;-;4
+"171320 MIRACEMA DO TOCANTINS";-;-;-;-;-;1;-;1
+"171330 MIRANORTE";-;1;-;-;-;-;-;1
+"171420 NATIVIDADE";2;-;-;-;-;-;-;2
+"171610 PARAISO DO TOCANTINS";-;-;-;-;-;1;-;1
+"171620 PARANA";1;-;-;-;-;-;-;1
+"171820 PORTO NACIONAL";1;-;-;1;-;-;-;2
+"172020 SAO MIGUEL DO TOCANTINS";-;1;-;-;-;-;-;1
+"172100 PALMAS";1;-;-;2;3;3;2;11
+"172208 WANDERLANDIA";-;2;-;-;-;-;-;2
+"210005 ACAILANDIA";-;1;-;-;-;-;-;1
+"210110 AXIXA";1;-;-;-;-;-;-;1
+"210125 BACABEIRA";2;-;-;-;-;-;-;2
+"210130 BACURI";1;-;-;-;-;-;-;1
+"210232 BURITICUPU";1;-;-;-;-;-;1;2
+"210270 CANTANHEDE";1;-;-;-;-;-;-;1
+"210312 CENTRAL DO MARANHAO";-;1;-;-;-;-;-;1
+"210405 ESTREITO";-;1;-;-;-;-;-;1
+"210407 FEIRA NOVA DO MARANHAO";-;-;-;-;-;-;1;1
+"210465 GOVERNADOR NEWTON BELLO";1;-;-;-;-;-;-;1
+"210530 IMPERATRIZ";-;2;-;-;1;-;-;3
+"210540 ITAPECURU MIRIM";-;-;-;-;1;-;-;1
+"210750 PACO DO LUMIAR";1;1;1;-;-;-;-;3
+"210770 PARAIBANO";-;-;-;-;-;-;2;2
+"210820 PEDREIRAS";1;-;-;-;-;-;-;1
+"210845 PERITORO";-;-;1;-;-;-;-;1
+"210850 PINDARE-MIRIM";1;-;-;-;-;-;-;1
+"210900 PORTO FRANCO";-;2;1;-;1;-;-;4
+"210910 PRESIDENTE DUTRA";-;-;-;-;-;1;-;1
+"210945 RAPOSA";-;1;-;-;-;-;1;2
+"210990 SANTA INES";-;-;-;-;-;1;-;1
+"211020 SANTA RITA";-;-;-;-;1;-;-;1
+"211120 SAO JOSE DE RIBAMAR";3;-;1;-;1;1;-;6
+"211130 SAO LUIS";24;5;1;3;14;8;7;62
+"211270 VARGEM GRANDE";-;-;-;-;-;1;-;1
+"211280 VIANA";1;-;-;-;-;-;-;1
+"510020 AGUA BOA";-;-;1;2;-;-;-;3
+"510025 ALTA FLORESTA";-;-;1;-;-;-;-;1
+"510140 ARIPUANA";-;-;2;-;-;1;1;4
+"510180 BARRA DO GARCAS";-;-;3;2;-;-;2;7
+"510185 BOM JESUS DO ARAGUAIA";-;-;-;1;-;-;-;1
+"510250 CACERES";-;-;6;-;-;1;-;7
+"510263 CAMPO NOVO DO PARECIS";-;-;-;1;1;-;3;5
+"510267 CAMPO VERDE";-;-;-;1;-;-;-;1
+"510270 CANARANA";-;-;-;1;-;-;-;1
+"510279 CARLINDA";2;-;-;-;-;-;1;3
+"510305 CLAUDIA";-;-;-;-;-;-;1;1
+"510320 COLIDER";-;-;-;2;1;1;-;4
+"510325 COLNIZA";-;-;-;1;-;-;-;1
+"510340 CUIABA";1;-;14;4;-;5;1;25
+"510343 CURVELANDIA";-;-;-;1;-;-;-;1
+"510345 DENISE";-;-;1;-;-;-;-;1
+"510350 DIAMANTINO";-;-;2;2;-;-;-;4
+"510390 GENERAL CARNEIRO";-;-;-;-;1;-;-;1
+"510395 GLORIA D'OESTE";-;-;-;1;-;-;-;1
+"510410 GUARANTA DO NORTE";-;-;-;1;-;-;-;1
+"510480 JACIARA";-;-;1;-;-;1;1;3
+"510500 JAURU";-;-;1;-;-;-;-;1
+"510510 JUARA";-;-;1;-;-;-;1;2
+"510525 LUCAS DO RIO VERDE";-;-;-;-;-;-;1;1
+"510562 MIRASSOL D'OESTE";-;-;1;-;-;-;-;1
+"510600 NORTELANDIA";-;-;1;-;-;2;-;3
+"510615 NOVA BANDEIRANTES";1;-;-;-;-;-;-;1
+"510622 NOVA MUTUM";-;-;1;-;-;-;-;1
+"510629 PARANAITA";1;-;-;-;-;-;-;1
+"510637 PEDRA PRETA";-;-;-;-;1;-;-;1
+"510642 PEIXOTO DE AZEVEDO";-;-;-;1;-;-;-;1
+"510665 PONTAL DO ARAGUAIA";-;-;-;-;-;-;1;1
+"510670 PONTE BRANCA";-;-;-;1;-;-;-;1
+"510675 PONTES E LACERDA";1;-;-;1;-;-;1;3
+"510704 PRIMAVERA DO LESTE";2;-;-;5;-;-;3;10
+"510710 SAO JOSE DOS QUATRO MARCOS";-;-;-;1;-;-;-;1
+"510730 SAO JOSE DO RIO CLARO";-;-;-;1;-;-;-;1
+"510760 RONDONOPOLIS";-;-;2;7;-;-;-;9
+"510770 ROSARIO OESTE";-;-;1;-;-;-;-;1
+"510787 SAPEZAL";-;-;-;1;-;-;1;2
+"510790 SINOP";1;-;10;7;1;4;5;28
+"510792 SORRISO";-;-;-;1;-;-;2;3
+"510795 TANGARA DA SERRA";-;-;2;1;-;1;1;5
+"510800 TAPURAH";-;-;-;2;-;-;-;2
+"510805 TERRA NOVA DO NORTE";-;-;-;1;-;-;-;1
+"510820 TORIXOREU";-;-;-;1;1;-;-;2
+"510840 VARZEA GRANDE";-;-;9;6;-;-;-;15
+"510850 VERA";-;-;-;-;-;-;1;1
+"Total";94;65;110;133;82;49;75;608
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+   pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Para tabular os óbitos por dengue até 2012, deve-se considerar apenas os casos graves (DCC, FHD, SCD, DSA, DG)
+   em que a evolução seja "óbito pelo agravo notificado" com critério de confirmação laboratorial e clínico-epidemiológico.
+   A partir de 2013, deve-se incluir, além dos casos graves, aqueles com classificação final dengue.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 atualizados em 30/08/2009.
+ Dados de 2008 atualizados em 17/03/2011.
+ Dados de 2009 atualizados em 23/06/2011.
+ Dados de 2010 atualizados em 18/06/2011.
+ Dados de 2011 atualizados em 11/01/2012.
+ Dados de 2012 atualizados em 25/07/2013.
+ Dados de 2013 atualizados em 10/07/2014.
+ Data da publicação dos dados 04/02/2019.
+ 

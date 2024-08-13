@@ -1,0 +1,63 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Notificações por Município de residência e Ano 1º Sintoma(s)
+Amazônia Legal (residência): Sim
+Classifica. Final: Ign/Ñ preenchido, Dengue Clássico, Dengue Com Complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue
+Evolução caso: Óbito
+Período:2001-2006
+"Município de residência";"2001";"2002";"2003";"2004";"2005";"2006";"Total"
+"110002 ARIQUEMES";-;-;-;-;1;-;1
+"110011 JARU";-;-;-;-;1;-;1
+"110025 PRESIDENTE MEDICI";-;-;-;-;-;1;1
+"110092 CHUPINGUAIA";-;-;1;-;-;-;1
+"120040 RIO BRANCO";-;-;-;2;-;-;2
+"120050 SENA MADUREIRA";-;-;-;-;-;1;1
+"130260 MANAUS";1;-;-;-;-;3;4
+"140010 BOA VISTA";-;-;3;-;-;2;5
+"150080 ANANINDEUA";-;1;-;-;2;1;4
+"150140 BELEM";-;1;2;-;3;1;7
+"150330 IGARAPE-MIRI";-;1;-;-;-;-;1
+"150442 MARITUBA";-;-;2;1;-;-;3
+"150613 REDENCAO";1;-;-;-;-;-;1
+"150616 RIO MARIA";-;-;-;1;-;-;1
+"150650 SANTA IZABEL DO PARA";-;-;-;-;1;-;1
+"150680 SANTAREM";-;-;-;-;2;-;2
+"150795 TAILANDIA";-;1;-;-;-;-;1
+"160030 MACAPA";1;-;1;-;1;3;6
+"171670 COLMEIA";1;-;-;-;-;-;1
+"172010 SAO BENTO DO TOCANTINS";-;1;-;-;-;-;1
+"172100 PALMAS";-;-;1;-;-;-;1
+"210120 BACABAL";-;-;1;-;-;-;1
+"210160 BARRA DO CORDA";-;1;-;-;-;-;1
+"210197 BOA VISTA DO GURUPI";-;-;-;-;1;-;1
+"210230 BURITI BRAVO";-;-;-;1;-;-;1
+"210480 GRAJAU";-;-;1;-;-;-;1
+"210530 IMPERATRIZ";-;-;-;1;-;-;1
+"210540 ITAPECURU MIRIM";-;1;-;-;-;-;1
+"211000 SANTA LUZIA";-;-;-;-;-;1;1
+"211120 SAO JOSE DE RIBAMAR";-;-;1;-;2;2;5
+"211130 SAO LUIS";-;2;2;-;5;6;15
+"211400 ZE DOCA";-;-;-;-;-;1;1
+"510250 CACERES";-;-;-;-;-;1;1
+"510300 CHAPADA DOS GUIMARAES";-;-;-;-;-;1;1
+"510325 COLNIZA";-;-;-;-;-;1;1
+"510340 CUIABA";-;1;-;-;-;-;1
+"510550 VILA BELA DA SANTISSIMA TRINDADE";-;-;1;-;-;-;1
+"510630 PARANATINGA";2;-;-;-;-;-;2
+"510760 RONDONOPOLIS";-;-;-;-;1;-;1
+"510790 SINOP";-;-;-;-;1;-;1
+"510792 SORRISO";-;-;-;-;1;-;1
+"510890 NOVA MARINGA";-;-;-;-;1;-;1
+"Total";6;10;16;6;23;25;86
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Incluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados,
+    pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
+    com atraso) e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: série histórica de nº de casos, 2001 a 2005:
+    selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis-2001 até o ano atual e
+    em Seleções assinale Ano de 1ºs sintomas de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 
