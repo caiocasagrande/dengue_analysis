@@ -8,7 +8,7 @@ import pandas as pd
 DATA_DIR    = '../../data/'
 INTERIM_DIR = DATA_DIR + 'interim/'
 RAW_DIR     = DATA_DIR + 'raw/'
-OUTPUT_FILE = INTERIM_DIR + 'mun_dengue_cases_amazonia_legal.csv'
+OUTPUT_FILE = INTERIM_DIR + 'mun_dengue_casos_amazonia_legal.csv'
 
 # Load Data
 ENCODING = 'latin1'
