@@ -1,5 +1,5 @@
 # Importação de bibliotecas
-import pandas as pd
+import pandas   as pd
 import requests
 
 # URLs da API IBGE
@@ -93,11 +93,11 @@ df_populacao['id_mun'] = df_populacao['id'].apply(lambda x: int(str(x)[:-1]))
 df_populacao.rename(columns={'id': 'cod_ibge'}, inplace=True)
 
 # Lista de colunas
-cols = ['cod_ibge', 'id_mun', 'nome_municipio', 'sigla_UF',
-        '2001', '2002', '2003', '2004', '2005', '2006', '2007', 
-        '2008', '2009', '2010', '2011', '2012', '2013', '2009', 
-        '2010', '2011', '2012', '2013', '2014', '2015', '2016', 
-        '2017', '2018', '2019', '2020', '2021', '2022']
+# Lista de colunas
+cols = ['cod_ibge', 'id_mun', 'nome_municipio', 'sigla_UF', '2001', 
+        '2002', '2003', '2004', '2005', '2006', '2007', '2008', 
+        '2009', '2010', '2011', '2012', '2013', '2014', '2015', 
+        '2016', '2017', '2018', '2019', '2020', '2021', '2022']
 
 # Reordena as colunas do DataFrame final
 df_populacao = df_populacao[cols]
