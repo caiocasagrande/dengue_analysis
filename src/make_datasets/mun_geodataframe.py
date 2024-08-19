@@ -16,18 +16,24 @@ gdf = gpd.GeoDataFrame.from_features(request)
 
 # Renomeando colunas
 gdf['id_mun'] = gdf['codarea'].apply(lambda x: int(str(x)[:-1]))
-gdf = gdf[['codarea', 'id_mun', 'geometry']]
+gdf.rename(columns={'codarea': 'cod_ibge'}, inplace=True)
 
 # Tratamento de dados
-gdf['id_mun'] = gdf['id_mun'].astype(int)
+cols = ['cod_ibge', 'id_mun']
+
+for col in cols:
+    gdf[col] = gdf[col].astype('int64')
 
 # ----- Merge - Amazonia Legal
 
 # Municipios Amazônia Legal
-df_amazonia_legal = pd.read_csv('../../data/interim/mun_amazonia_legal.csv')
+df_amazonia_legal = pd.read_csv('../../data/interim/mun_amazonia_legal.csv')[['cod_ibge', 'nome_mun', 'id_uf']]
 
 # Merge
-amazonia_legal = df_amazonia_legal[['id_mun', 'nome_mun', 'sigla_uf']].merge(gdf[['id_mun', 'geometry']], on='id_mun', how='left')
+amazonia_legal = df_amazonia_legal.merge(gdf, on='cod_ibge', how='left')
+
+# Reordenando colunas
+amazonia_legal = amazonia_legal[['cod_ibge', 'id_mun', 'nome_mun', 'id_uf', 'geometry']]
 
 # DataFrame to GeoDataFrame
 amazonia_legal = gpd.GeoDataFrame(amazonia_legal, geometry=amazonia_legal.geometry)
